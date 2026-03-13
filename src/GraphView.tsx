@@ -8,12 +8,12 @@ import '@react-sigma/graph-search/lib/style.css';
 import { GraphLoader } from "./GraphLoader";
 // import FocusOnNode from "./FocusOnNode";
 import { MiniMap } from "@react-sigma/minimap";
-import type { SerializedGraph } from "graphology-types";
+// import type { SerializedGraph } from "graphology-types";
 import { GraphSearch, type GraphSearchOption } from "@react-sigma/graph-search";
-import Graph from "graphology";
+// import Graph, { MultiDirectedGraph } from "graphology";
 import { NodeImageProgram } from '@sigma/node-image';
 import { FocusOnNode } from "./focusOnNode";
-import jsonGraph from "./data/vertices_helperstars_graphson.json";
+// import jsonGraph from "./data/vertices_helperstars_graphson.json";
 
   // Sigma settings
 const sigmaSettings = {
@@ -29,7 +29,7 @@ const sigmaSettings = {
 };
 
 export const GraphView: FC<{ style: CSSProperties }> = ({ style }) => {
-  const graph = Graph.from(jsonGraph as SerializedGraph);
+  // const graph = Graph.from(jsonGraph as SerializedGraph);
 
   const [selectedNode, setSelectedNode] = useState<string | null>(null);
   const [focusNode, setFocusNode] = useState<string | null>(null);
@@ -56,7 +56,7 @@ export const GraphView: FC<{ style: CSSProperties }> = ({ style }) => {
   
   return <SigmaContainer style={style} settings={sigmaSettings}>
     <GraphLoader/>
-      <Sidebar />
+      {/* <Sidebar /> */}
       <FocusOnNode node={focusNode ?? selectedNode} move={focusNode ? false : true} />
       <ControlsContainer position={'bottom-right'}>
         <ZoomControl />
