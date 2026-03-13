@@ -1,0 +1,176 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schema/astro-graph.json",
+  "title": "Chinese Astro Knowledge Graph",
+  "type": "object",
+  "required": ["nodes", "edges"],
+  "properties": {
+    "nodes": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/node" }
+    },
+    "edges": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/edge" }
+    }
+  },
+  "$defs": {
+    "node": {
+      "type": "object",
+      "required": ["id", "type"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "LunarMansion",
+            "Quadrant",
+            "ConstellationRegion",
+            "StarOfficer",
+            "AstroStar",
+            "StarCategory",
+            "Element",
+            "YinYang",
+            "PhaseQuality",
+            "Virtue",
+            "LifePalace",
+            "Trait",
+            "EventType",
+            "Rule"
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "pinyin": {
+          "type": "string"
+        },
+        "element": {
+          "type": "string",
+          "enum": ["木", "火", "土", "金", "水"],
+          "nullable": true
+        },
+        "yinyang": {
+          "type": "string",
+          "enum": ["阴", "阳"],
+          "nullable": true
+        },
+        "phase": {
+          "type": "string",
+          "description": "气质，如：升、降、开、合、动、静"
+        },
+        "quadrant": {
+          "type": "string",
+          "enum": ["青龙", "白虎", "朱雀", "玄武"],
+          "nullable": true
+        },
+        "category": {
+          "type": "string",
+          "description": "星曜类别，如：主星、辅星、煞星、吉星、凶星"
+        },
+        "virtue": {
+          "type": "string",
+          "description": "德性，如：仁、义、礼、智、信"
+        },
+        "keywords": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "symbolism": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "domain": {
+          "type": "string",
+          "description": "宫位对应的人生领域"
+        },
+        "description": {
+          "type": "string"
+        },
+        "logic": {
+          "type": "object",
+          "description": "仅 Rule 类型使用的逻辑 DSL",
+          "properties": {
+            "if": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "star": { "type": "string" },
+                  "palace": { "type": "string" },
+                  "xiu": { "type": "string" },
+                  "condition": { "type": "string" }
+                },
+                "additionalProperties": false
+              }
+            },
+            "then": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "properties": {
+                  "trait": { "type": "string" },
+                  "event": { "type": "string" },
+                  "weight": { "type": "number" }
+                },
+                "required": ["weight"],
+                "additionalProperties": false
+              }
+            }
+          },
+          "required": ["if", "then"],
+          "additionalProperties": false
+        }
+      },
+      "additionalProperties": true
+    },
+    "edge": {
+      "type": "object",
+      "required": ["from", "to", "type"],
+      "properties": {
+        "from": {
+          "type": "string",
+          "description": "源节点 ID"
+        },
+        "to": {
+          "type": "string",
+          "description": "目标节点 ID"
+        },
+        "type": {
+          "type": "string",
+          "enum": [
+            "BELONGS_TO_QUADRANT",
+            "PART_OF_REGION",
+            "CONTAINS_STAROFFICER",
+            "DERIVED_FROM_STAROFFICER",
+            "HAS_CATEGORY",
+            "ASSOCIATED_WITH_LUNAR_MANSION",
+            "HAS_ELEMENT",
+            "HAS_YINYANG",
+            "HAS_VIRTUE",
+            "HAS_PHASE_QUALITY",
+            "INFLUENCES_TRAIT",
+            "INFLUENCES_EVENT",
+            "LOCATED_IN_PALACE",
+            "RULE_USES_ENTITY",
+            "RESULT_TRAIT",
+            "RESULT_EVENT"
+          ]
+        },
+        "weight": {
+          "type": "number",
+          "description": "关系强度（可选）"
+        },
+        "metadata": {
+          "type": "object",
+          "description": "扩展字段",
+          "additionalProperties": true
+        }
+      },
+      "additionalProperties": false
+    }
+  }
+}

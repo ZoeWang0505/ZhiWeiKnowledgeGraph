@@ -1,0 +1,287 @@
+{
+  "vertices": [
+    {
+      "id": "XIU_01",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_01_name", "value": "角宿" }],
+        "index": [{ "id": "XIU_01_idx", "value": 1 }],
+        "quadrant": [{ "id": "XIU_01_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_01_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_02",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_02_name", "value": "亢宿" }],
+        "index": [{ "id": "XIU_02_idx", "value": 2 }],
+        "quadrant": [{ "id": "XIU_02_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_02_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_03",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_03_name", "value": "氐宿" }],
+        "index": [{ "id": "XIU_03_idx", "value": 3 }],
+        "quadrant": [{ "id": "XIU_03_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_03_ele", "value": "土" }]
+      }
+    },
+    {
+      "id": "XIU_04",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_04_name", "value": "房宿" }],
+        "index": [{ "id": "XIU_04_idx", "value": 4 }],
+        "quadrant": [{ "id": "XIU_04_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_04_ele", "value": "火" }]
+      }
+    },
+    {
+      "id": "XIU_05",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_05_name", "value": "心宿" }],
+        "index": [{ "id": "XIU_05_idx", "value": 5 }],
+        "quadrant": [{ "id": "XIU_05_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_05_ele", "value": "火" }]
+      }
+    },
+    {
+      "id": "XIU_06",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_06_name", "value": "尾宿" }],
+        "index": [{ "id": "XIU_06_idx", "value": 6 }],
+        "quadrant": [{ "id": "XIU_06_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_06_ele", "value": "火" }]
+      }
+    },
+    {
+      "id": "XIU_07",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_07_name", "value": "箕宿" }],
+        "index": [{ "id": "XIU_07_idx", "value": 7 }],
+        "quadrant": [{ "id": "XIU_07_quad", "value": "青龙" }],
+        "element": [{ "id": "XIU_07_ele", "value": "火" }]
+      }
+    },
+
+    {
+      "id": "XIU_08",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_08_name", "value": "井宿" }],
+        "index": [{ "id": "XIU_08_idx", "value": 8 }],
+        "quadrant": [{ "id": "XIU_08_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_08_ele", "value": "水" }]
+      }
+    },
+    {
+      "id": "XIU_09",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_09_name", "value": "鬼宿" }],
+        "index": [{ "id": "XIU_09_idx", "value": 9 }],
+        "quadrant": [{ "id": "XIU_09_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_09_ele", "value": "水" }]
+      }
+    },
+    {
+      "id": "XIU_10",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_10_name", "value": "柳宿" }],
+        "index": [{ "id": "XIU_10_idx", "value": 10 }],
+        "quadrant": [{ "id": "XIU_10_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_10_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_11",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_11_name", "value": "星宿" }],
+        "index": [{ "id": "XIU_11_idx", "value": 11 }],
+        "quadrant": [{ "id": "XIU_11_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_11_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_12",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_12_name", "value": "张宿" }],
+        "index": [{ "id": "XIU_12_idx", "value": 12 }],
+        "quadrant": [{ "id": "XIU_12_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_12_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_13",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_13_name", "value": "翼宿" }],
+        "index": [{ "id": "XIU_13_idx", "value": 13 }],
+        "quadrant": [{ "id": "XIU_13_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_13_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_14",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_14_name", "value": "轸宿" }],
+        "index": [{ "id": "XIU_14_idx", "value": 14 }],
+        "quadrant": [{ "id": "XIU_14_quad", "value": "朱雀" }],
+        "element": [{ "id": "XIU_14_ele", "value": "木" }]
+      }
+    },
+
+    {
+      "id": "XIU_15",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_15_name", "value": "奎宿" }],
+        "index": [{ "id": "XIU_15_idx", "value": 15 }],
+        "quadrant": [{ "id": "XIU_15_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_15_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_16",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_16_name", "value": "娄宿" }],
+        "index": [{ "id": "XIU_16_idx", "value": 16 }],
+        "quadrant": [{ "id": "XIU_16_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_16_ele", "value": "土" }]
+      }
+    },
+    {
+      "id": "XIU_17",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_17_name", "value": "胃宿" }],
+        "index": [{ "id": "XIU_17_idx", "value": 17 }],
+        "quadrant": [{ "id": "XIU_17_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_17_ele", "value": "土" }]
+      }
+    },
+    {
+      "id": "XIU_18",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_18_name", "value": "昴宿" }],
+        "index": [{ "id": "XIU_18_idx", "value": 18 }],
+        "quadrant": [{ "id": "XIU_18_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_18_ele", "value": "金" }]
+      }
+    },
+    {
+      "id": "XIU_19",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_19_name", "value": "毕宿" }],
+        "index": [{ "id": "XIU_19_idx", "value": 19 }],
+        "quadrant": [{ "id": "XIU_19_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_19_ele", "value": "金" }]
+      }
+    },
+    {
+      "id": "XIU_20",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_20_name", "value": "觜宿" }],
+        "index": [{ "id": "XIU_20_idx", "value": 20 }],
+        "quadrant": [{ "id": "XIU_20_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_20_ele", "value": "水" }]
+      }
+    },
+    {
+      "id": "XIU_21",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_21_name", "value": "参宿" }],
+        "index": [{ "id": "XIU_21_idx", "value": 21 }],
+        "quadrant": [{ "id": "XIU_21_quad", "value": "白虎" }],
+        "element": [{ "id": "XIU_21_ele", "value": "火" }]
+      }
+    },
+
+    {
+      "id": "XIU_22",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_22_name", "value": "斗宿" }],
+        "index": [{ "id": "XIU_22_idx", "value": 22 }],
+        "quadrant": [{ "id": "XIU_22_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_22_ele", "value": "木" }]
+      }
+    },
+    {
+      "id": "XIU_23",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_23_name", "value": "牛宿" }],
+        "index": [{ "id": "XIU_23_idx", "value": 23 }],
+        "quadrant": [{ "id": "XIU_23_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_23_ele", "value": "土" }]
+      }
+    },
+    {
+      "id": "XIU_24",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_24_name", "value": "女宿" }],
+        "index": [{ "id": "XIU_24_idx", "value": 24 }],
+        "quadrant": [{ "id": "XIU_24_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_24_ele", "value": "土" }]
+      }
+    },
+    {
+      "id": "XIU_25",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_25_name", "value": "虚宿" }],
+        "index": [{ "id": "XIU_25_idx", "value": 25 }],
+        "quadrant": [{ "id": "XIU_25_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_25_ele", "value": "水" }]
+      }
+    },
+    {
+      "id": "XIU_26",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_26_name", "value": "危宿" }],
+        "index": [{ "id": "XIU_26_idx", "value": 26 }],
+        "quadrant": [{ "id": "XIU_26_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_26_ele", "value": "水" }]
+      }
+    },
+    {
+      "id": "XIU_27",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_27_name", "value": "室宿" }],
+        "index": [{ "id": "XIU_27_idx", "value": 27 }],
+        "quadrant": [{ "id": "XIU_27_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_27_ele", "value": "土" }]
+      }
+    },
+    {
+      "id": "XIU_28",
+      "label": "LunarMansion",
+      "properties": {
+        "name": [{ "id": "XIU_28_name", "value": "壁宿" }],
+        "index": [{ "id": "XIU_28_idx", "value": 28 }],
+        "quadrant": [{ "id": "XIU_28_quad", "value": "玄武" }],
+        "element": [{ "id": "XIU_28_ele", "value": "土" }]
+      }
+    }
+  ]
+}

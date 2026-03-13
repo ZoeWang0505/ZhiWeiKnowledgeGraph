@@ -1,0 +1,3250 @@
+{
+  "edges": [
+    {
+      "id": "EDGE_STAR_ZUOFU_BI_STAR_YOUBI",
+      "label": "BI",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_BI_STAR_WENCHANG",
+      "label": "BI",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_BI_STAR_TIANCAI",
+      "label": "BI",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_BI_STAR_TIANMA",
+      "label": "BI",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANRUI",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANYUE",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_HUOXING",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_LINGXING",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANYAO",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANGUI",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANGUAN",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANSI",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_SHENG_STAR_TIANXI",
+      "label": "SHENG",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_KE_STAR_LUCUN",
+      "label": "KE",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_KE_STAR_TIANSHOU",
+      "label": "KE",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_KE_STAR_TIANFU2",
+      "label": "KE",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_KE_STAR_TIANCHU",
+      "label": "KE",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_BI_STAR_ZUOFU",
+      "label": "BI",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_BI_STAR_WENCHANG",
+      "label": "BI",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_BI_STAR_TIANCAI",
+      "label": "BI",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_BI_STAR_TIANMA",
+      "label": "BI",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANRUI",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANYUE",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_HUOXING",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_LINGXING",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANYAO",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANGUI",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANGUAN",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANSI",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_SHENG_STAR_TIANXI",
+      "label": "SHENG",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_KE_STAR_LUCUN",
+      "label": "KE",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_KE_STAR_TIANSHOU",
+      "label": "KE",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_KE_STAR_TIANFU2",
+      "label": "KE",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_KE_STAR_TIANCHU",
+      "label": "KE",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_BI_STAR_ZUOFU",
+      "label": "BI",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_BI_STAR_YOUBI",
+      "label": "BI",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_BI_STAR_TIANCAI",
+      "label": "BI",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_BI_STAR_TIANMA",
+      "label": "BI",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANRUI",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANYUE",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_HUOXING",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_LINGXING",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANYAO",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANGUI",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANGUAN",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANSI",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_SHENG_STAR_TIANXI",
+      "label": "SHENG",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_KE_STAR_LUCUN",
+      "label": "KE",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_KE_STAR_TIANSHOU",
+      "label": "KE",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_KE_STAR_TIANFU2",
+      "label": "KE",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_KE_STAR_TIANCHU",
+      "label": "KE",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_BI_STAR_DIKONG",
+      "label": "BI",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_BI_STAR_DIJIE",
+      "label": "BI",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_BI_STAR_TIANWU",
+      "label": "BI",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_BI_STAR_TIANXU",
+      "label": "BI",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_BI_STAR_TIANYUE2",
+      "label": "BI",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_BI_STAR_TIANKU",
+      "label": "BI",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_BI_STAR_TIANSHOU",
+      "label": "BI",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_BI_STAR_TIANFU2",
+      "label": "BI",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_BI_STAR_TIANCHU",
+      "label": "BI",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_SHENG_STAR_QINGYANG",
+      "label": "SHENG",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_SHENG_STAR_TUOLUO",
+      "label": "SHENG",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_SHENG_STAR_TIANXING",
+      "label": "SHENG",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_SHENG_STAR_TIANSHANG",
+      "label": "SHENG",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_WENQU",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_DIKONG",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_DIJIE",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_TIANWU",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_TIANXU",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_TIANYUE2",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_KE_STAR_TIANKU",
+      "label": "KE",
+      "outV": "STAR_LUCUN",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_BI_STAR_TUOLUO",
+      "label": "BI",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_BI_STAR_TIANXING",
+      "label": "BI",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_BI_STAR_TIANSHANG",
+      "label": "BI",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_WENQU",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_DIKONG",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_DIJIE",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_TIANWU",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_TIANXU",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_TIANYUE2",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_SHENG_STAR_TIANKU",
+      "label": "SHENG",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_KE_STAR_ZUOFU",
+      "label": "KE",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_KE_STAR_YOUBI",
+      "label": "KE",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_KE_STAR_WENCHANG",
+      "label": "KE",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_KE_STAR_TIANCAI",
+      "label": "KE",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_KE_STAR_TIANMA",
+      "label": "KE",
+      "outV": "STAR_QINGYANG",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_BI_STAR_QINGYANG",
+      "label": "BI",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_BI_STAR_TIANXING",
+      "label": "BI",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_BI_STAR_TIANSHANG",
+      "label": "BI",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_WENQU",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_DIKONG",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_DIJIE",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_TIANWU",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_TIANXU",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_TIANYUE2",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_SHENG_STAR_TIANKU",
+      "label": "SHENG",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_KE_STAR_ZUOFU",
+      "label": "KE",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_KE_STAR_YOUBI",
+      "label": "KE",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_KE_STAR_WENCHANG",
+      "label": "KE",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_KE_STAR_TIANCAI",
+      "label": "KE",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_KE_STAR_TIANMA",
+      "label": "KE",
+      "outV": "STAR_TUOLUO",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_HUOXING",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_LINGXING",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_BI_STAR_WENQU",
+      "label": "BI",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_BI_STAR_DIJIE",
+      "label": "BI",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_BI_STAR_TIANWU",
+      "label": "BI",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_BI_STAR_TIANXU",
+      "label": "BI",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_BI_STAR_TIANYUE2",
+      "label": "BI",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_BI_STAR_TIANKU",
+      "label": "BI",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_DIKONG",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_BI_STAR_WENQU",
+      "label": "BI",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_BI_STAR_DIKONG",
+      "label": "BI",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_BI_STAR_TIANWU",
+      "label": "BI",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_BI_STAR_TIANXU",
+      "label": "BI",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_BI_STAR_TIANYUE2",
+      "label": "BI",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_BI_STAR_TIANKU",
+      "label": "BI",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_DIJIE",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_BI_STAR_QINGYANG",
+      "label": "BI",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_BI_STAR_TUOLUO",
+      "label": "BI",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_BI_STAR_TIANSHANG",
+      "label": "BI",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_WENQU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_DIKONG",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_DIJIE",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_TIANWU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_TIANXU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_TIANYUE2",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_SHENG_STAR_TIANKU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_KE_STAR_ZUOFU",
+      "label": "KE",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_KE_STAR_YOUBI",
+      "label": "KE",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_KE_STAR_WENCHANG",
+      "label": "KE",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_KE_STAR_TIANCAI",
+      "label": "KE",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_KE_STAR_TIANMA",
+      "label": "KE",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_BI_STAR_LUCUN",
+      "label": "BI",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_BI_STAR_TIANFU2",
+      "label": "BI",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_BI_STAR_TIANCHU",
+      "label": "BI",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_SHENG_STAR_QINGYANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_SHENG_STAR_TUOLUO",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_SHENG_STAR_TIANXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_SHENG_STAR_TIANSHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_WENQU",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_DIKONG",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_DIJIE",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_TIANWU",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_TIANXU",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_TIANYUE2",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_KE_STAR_TIANKU",
+      "label": "KE",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_BI_STAR_ZUOFU",
+      "label": "BI",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_BI_STAR_YOUBI",
+      "label": "BI",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_BI_STAR_WENCHANG",
+      "label": "BI",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_BI_STAR_TIANMA",
+      "label": "BI",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANRUI",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANYUE",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_HUOXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_LINGXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANYAO",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANGUI",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANGUAN",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANSI",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_SHENG_STAR_TIANXI",
+      "label": "SHENG",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_KE_STAR_LUCUN",
+      "label": "KE",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_KE_STAR_TIANSHOU",
+      "label": "KE",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_KE_STAR_TIANFU2",
+      "label": "KE",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_KE_STAR_TIANCHU",
+      "label": "KE",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_BI_STAR_LUCUN",
+      "label": "BI",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_BI_STAR_TIANSHOU",
+      "label": "BI",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_BI_STAR_TIANCHU",
+      "label": "BI",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_SHENG_STAR_QINGYANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_SHENG_STAR_TUOLUO",
+      "label": "SHENG",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_SHENG_STAR_TIANXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_SHENG_STAR_TIANSHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_WENQU",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_DIKONG",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_DIJIE",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_TIANWU",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_TIANXU",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_TIANYUE2",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_KE_STAR_TIANKU",
+      "label": "KE",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_BI_STAR_LUCUN",
+      "label": "BI",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_BI_STAR_TIANSHOU",
+      "label": "BI",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_BI_STAR_TIANFU2",
+      "label": "BI",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_SHENG_STAR_QINGYANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_SHENG_STAR_TUOLUO",
+      "label": "SHENG",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_SHENG_STAR_TIANXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_SHENG_STAR_TIANSHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_WENQU",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_DIKONG",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_DIJIE",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_TIANWU",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_TIANXU",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_TIANYUE2",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_KE_STAR_TIANKU",
+      "label": "KE",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_BI_STAR_WENQU",
+      "label": "BI",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_BI_STAR_DIKONG",
+      "label": "BI",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_BI_STAR_DIJIE",
+      "label": "BI",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_BI_STAR_TIANXU",
+      "label": "BI",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_BI_STAR_TIANYUE2",
+      "label": "BI",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_BI_STAR_TIANKU",
+      "label": "BI",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_BI_STAR_WENQU",
+      "label": "BI",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_BI_STAR_DIKONG",
+      "label": "BI",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_BI_STAR_DIJIE",
+      "label": "BI",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_BI_STAR_TIANWU",
+      "label": "BI",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_BI_STAR_TIANYUE2",
+      "label": "BI",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_BI_STAR_TIANKU",
+      "label": "BI",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_TIANXU",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_BI_STAR_QINGYANG",
+      "label": "BI",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_BI_STAR_TUOLUO",
+      "label": "BI",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_BI_STAR_TIANXING",
+      "label": "BI",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_WENQU",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_DIKONG",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_DIJIE",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_TIANWU",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_TIANXU",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_TIANYUE2",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_SHENG_STAR_TIANKU",
+      "label": "SHENG",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_KE_STAR_ZUOFU",
+      "label": "KE",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_KE_STAR_YOUBI",
+      "label": "KE",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_KE_STAR_WENCHANG",
+      "label": "KE",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_KE_STAR_TIANCAI",
+      "label": "KE",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_KE_STAR_TIANMA",
+      "label": "KE",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_BI_STAR_TIANXI",
+      "label": "BI",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANSI",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_BI_STAR_WENQU",
+      "label": "BI",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_BI_STAR_DIKONG",
+      "label": "BI",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_BI_STAR_DIJIE",
+      "label": "BI",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_BI_STAR_TIANWU",
+      "label": "BI",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_BI_STAR_TIANXU",
+      "label": "BI",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_BI_STAR_TIANKU",
+      "label": "BI",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANKU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_BI_STAR_ZUOFU",
+      "label": "BI",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_BI_STAR_YOUBI",
+      "label": "BI",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_BI_STAR_WENCHANG",
+      "label": "BI",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_BI_STAR_TIANCAI",
+      "label": "BI",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANRUI",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANYUE",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_HUOXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_LINGXING",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANYAO",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANGUI",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANGUAN",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANSI",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_SHENG_STAR_TIANXI",
+      "label": "SHENG",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_KE_STAR_LUCUN",
+      "label": "KE",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_KE_STAR_TIANSHOU",
+      "label": "KE",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_KE_STAR_TIANFU2",
+      "label": "KE",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_KE_STAR_TIANCHU",
+      "label": "KE",
+      "outV": "STAR_TIANMA",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_TIANRUI",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_TIANYUE",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_HUOXING",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_LINGXING",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_TIANYAO",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_TIANGUI",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_TIANGUAN",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_BI_STAR_TIANSI",
+      "label": "BI",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_SHENG_STAR_LUCUN",
+      "label": "SHENG",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_LUCUN"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_SHENG_STAR_TIANSHOU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANSHOU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_SHENG_STAR_TIANFU2",
+      "label": "SHENG",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANFU2"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_SHENG_STAR_TIANCHU",
+      "label": "SHENG",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANCHU"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_KE_STAR_QINGYANG",
+      "label": "KE",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_QINGYANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_KE_STAR_TUOLUO",
+      "label": "KE",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TUOLUO"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_KE_STAR_TIANXING",
+      "label": "KE",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_KE_STAR_TIANSHANG",
+      "label": "KE",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANSHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_BI_STAR_WENQU",
+      "label": "BI",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_WENQU"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_BI_STAR_DIKONG",
+      "label": "BI",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_DIKONG"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_BI_STAR_DIJIE",
+      "label": "BI",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_DIJIE"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_BI_STAR_TIANWU",
+      "label": "BI",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANWU"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_BI_STAR_TIANXU",
+      "label": "BI",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANXU"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_BI_STAR_TIANYUE2",
+      "label": "BI",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANYUE2"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_SHENG_STAR_ZUOFU",
+      "label": "SHENG",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_ZUOFU"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_SHENG_STAR_YOUBI",
+      "label": "SHENG",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_YOUBI"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_SHENG_STAR_WENCHANG",
+      "label": "SHENG",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_WENCHANG"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_SHENG_STAR_TIANCAI",
+      "label": "SHENG",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANCAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_SHENG_STAR_TIANMA",
+      "label": "SHENG",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANMA"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANRUI",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANRUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANYUE",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANYUE"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_HUOXING",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_HUOXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_LINGXING",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_LINGXING"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANYAO",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANYAO"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANGUI",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANGUI"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANGUAN",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANGUAN"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANSI",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANSI"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_KE_STAR_TIANXI",
+      "label": "KE",
+      "outV": "STAR_TIANKU",
+      "inV": "STAR_TIANXI"
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_COMBO_STAR_YOUBI",
+      "label": "COMBO",
+      "outV": "STAR_ZUOFU",
+      "inV": "STAR_YOUBI",
+      "properties": {
+        "type": "辅弼"
+      }
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_COMBO_STAR_ZUOFU",
+      "label": "COMBO",
+      "outV": "STAR_YOUBI",
+      "inV": "STAR_ZUOFU",
+      "properties": {
+        "type": "辅弼"
+      }
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_COMBO_STAR_WENQU",
+      "label": "COMBO",
+      "outV": "STAR_WENCHANG",
+      "inV": "STAR_WENQU",
+      "properties": {
+        "type": "文魁"
+      }
+    },
+    {
+      "id": "EDGE_STAR_WENQU_COMBO_STAR_WENCHANG",
+      "label": "COMBO",
+      "outV": "STAR_WENQU",
+      "inV": "STAR_WENCHANG",
+      "properties": {
+        "type": "文魁"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_COMBO_STAR_TIANYUE",
+      "label": "COMBO",
+      "outV": "STAR_TIANRUI",
+      "inV": "STAR_TIANYUE",
+      "properties": {
+        "type": "魁钺"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_COMBO_STAR_TIANRUI",
+      "label": "COMBO",
+      "outV": "STAR_TIANYUE",
+      "inV": "STAR_TIANRUI",
+      "properties": {
+        "type": "魁钺"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_COMBO_STAR_TIANSHANG",
+      "label": "COMBO",
+      "outV": "STAR_TIANXING",
+      "inV": "STAR_TIANSHANG",
+      "properties": {
+        "type": "刑伤"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_COMBO_STAR_TIANXI",
+      "label": "COMBO",
+      "outV": "STAR_TIANYAO",
+      "inV": "STAR_TIANXI",
+      "properties": {
+        "type": "桃花"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_COMBO_STAR_TIANCAI",
+      "label": "COMBO",
+      "outV": "STAR_TIANSHOU",
+      "inV": "STAR_TIANCAI",
+      "properties": {
+        "type": "天赋延寿"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_COMBO_STAR_TIANSHOU",
+      "label": "COMBO",
+      "outV": "STAR_TIANCAI",
+      "inV": "STAR_TIANSHOU",
+      "properties": {
+        "type": "天赋延寿"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_COMBO_STAR_TIANGUAN",
+      "label": "COMBO",
+      "outV": "STAR_TIANGUI",
+      "inV": "STAR_TIANGUAN",
+      "properties": {
+        "type": "贵气"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_COMBO_STAR_TIANGUI",
+      "label": "COMBO",
+      "outV": "STAR_TIANGUAN",
+      "inV": "STAR_TIANGUI",
+      "properties": {
+        "type": "贵气"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_COMBO_STAR_TIANCHU",
+      "label": "COMBO",
+      "outV": "STAR_TIANFU2",
+      "inV": "STAR_TIANCHU",
+      "properties": {
+        "type": "福禄"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_COMBO_STAR_TIANFU2",
+      "label": "COMBO",
+      "outV": "STAR_TIANCHU",
+      "inV": "STAR_TIANFU2",
+      "properties": {
+        "type": "福禄"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_COMBO_STAR_TIANYUE2",
+      "label": "COMBO",
+      "outV": "STAR_TIANWU",
+      "inV": "STAR_TIANYUE2",
+      "properties": {
+        "type": "灵感"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_COMBO_STAR_TIANXING",
+      "label": "COMBO",
+      "outV": "STAR_TIANSHANG",
+      "inV": "STAR_TIANXING",
+      "properties": {
+        "type": "刑伤"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_COMBO_STAR_TIANWU",
+      "label": "COMBO",
+      "outV": "STAR_TIANYUE2",
+      "inV": "STAR_TIANWU",
+      "properties": {
+        "type": "灵感"
+      }
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_COMBO_STAR_TIANYAO",
+      "label": "COMBO",
+      "outV": "STAR_TIANXI",
+      "inV": "STAR_TIANYAO",
+      "properties": {
+        "type": "桃花"
+      }
+    },
+    {
+      "id": "EDGE_STAR_ZUOFU_LOCATED_IN_PALACE_MING",
+      "label": "LOCATED_IN",
+      "outV": "STAR_ZUOFU",
+      "inV": "PALACE_MING"
+    },
+    {
+      "id": "EDGE_STAR_YOUBI_LOCATED_IN_PALACE_XIONGDI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_YOUBI",
+      "inV": "PALACE_XIONGDI"
+    },
+    {
+      "id": "EDGE_STAR_WENCHANG_LOCATED_IN_PALACE_FUQI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_WENCHANG",
+      "inV": "PALACE_FUQI"
+    },
+    {
+      "id": "EDGE_STAR_WENQU_LOCATED_IN_PALACE_ZINV",
+      "label": "LOCATED_IN",
+      "outV": "STAR_WENQU",
+      "inV": "PALACE_ZINV"
+    },
+    {
+      "id": "EDGE_STAR_TIANRUI_LOCATED_IN_PALACE_CAIBO",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANRUI",
+      "inV": "PALACE_CAIBO"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE_LOCATED_IN_PALACE_JIEE",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANYUE",
+      "inV": "PALACE_JIEE"
+    },
+    {
+      "id": "EDGE_STAR_LUCUN_LOCATED_IN_PALACE_QIANYI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_LUCUN",
+      "inV": "PALACE_QIANYI"
+    },
+    {
+      "id": "EDGE_STAR_QINGYANG_LOCATED_IN_PALACE_NUPU",
+      "label": "LOCATED_IN",
+      "outV": "STAR_QINGYANG",
+      "inV": "PALACE_NUPU"
+    },
+    {
+      "id": "EDGE_STAR_TUOLUO_LOCATED_IN_PALACE_GUANLU",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TUOLUO",
+      "inV": "PALACE_GUANLU"
+    },
+    {
+      "id": "EDGE_STAR_HUOXING_LOCATED_IN_PALACE_TIANZHAI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_HUOXING",
+      "inV": "PALACE_TIANZHAI"
+    },
+    {
+      "id": "EDGE_STAR_LINGXING_LOCATED_IN_PALACE_FUDE",
+      "label": "LOCATED_IN",
+      "outV": "STAR_LINGXING",
+      "inV": "PALACE_FUDE"
+    },
+    {
+      "id": "EDGE_STAR_DIKONG_LOCATED_IN_PALACE_FUMU",
+      "label": "LOCATED_IN",
+      "outV": "STAR_DIKONG",
+      "inV": "PALACE_FUMU"
+    },
+    {
+      "id": "EDGE_STAR_DIJIE_LOCATED_IN_PALACE_MING",
+      "label": "LOCATED_IN",
+      "outV": "STAR_DIJIE",
+      "inV": "PALACE_MING"
+    },
+    {
+      "id": "EDGE_STAR_TIANXING_LOCATED_IN_PALACE_XIONGDI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANXING",
+      "inV": "PALACE_XIONGDI"
+    },
+    {
+      "id": "EDGE_STAR_TIANYAO_LOCATED_IN_PALACE_FUQI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANYAO",
+      "inV": "PALACE_FUQI"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHOU_LOCATED_IN_PALACE_ZINV",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANSHOU",
+      "inV": "PALACE_ZINV"
+    },
+    {
+      "id": "EDGE_STAR_TIANCAI_LOCATED_IN_PALACE_CAIBO",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANCAI",
+      "inV": "PALACE_CAIBO"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUI_LOCATED_IN_PALACE_JIEE",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANGUI",
+      "inV": "PALACE_JIEE"
+    },
+    {
+      "id": "EDGE_STAR_TIANGUAN_LOCATED_IN_PALACE_QIANYI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANGUAN",
+      "inV": "PALACE_QIANYI"
+    },
+    {
+      "id": "EDGE_STAR_TIANFU2_LOCATED_IN_PALACE_NUPU",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANFU2",
+      "inV": "PALACE_NUPU"
+    },
+    {
+      "id": "EDGE_STAR_TIANCHU_LOCATED_IN_PALACE_GUANLU",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANCHU",
+      "inV": "PALACE_GUANLU"
+    },
+    {
+      "id": "EDGE_STAR_TIANWU_LOCATED_IN_PALACE_TIANZHAI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANWU",
+      "inV": "PALACE_TIANZHAI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXU_LOCATED_IN_PALACE_FUDE",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANXU",
+      "inV": "PALACE_FUDE"
+    },
+    {
+      "id": "EDGE_STAR_TIANSHANG_LOCATED_IN_PALACE_FUMU",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANSHANG",
+      "inV": "PALACE_FUMU"
+    },
+    {
+      "id": "EDGE_STAR_TIANSI_LOCATED_IN_PALACE_MING",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANSI",
+      "inV": "PALACE_MING"
+    },
+    {
+      "id": "EDGE_STAR_TIANYUE2_LOCATED_IN_PALACE_XIONGDI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANYUE2",
+      "inV": "PALACE_XIONGDI"
+    },
+    {
+      "id": "EDGE_STAR_TIANMA_LOCATED_IN_PALACE_FUQI",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANMA",
+      "inV": "PALACE_FUQI"
+    },
+    {
+      "id": "EDGE_STAR_TIANXI_LOCATED_IN_PALACE_ZINV",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANXI",
+      "inV": "PALACE_ZINV"
+    },
+    {
+      "id": "EDGE_STAR_TIANKU_LOCATED_IN_PALACE_CAIBO",
+      "label": "LOCATED_IN",
+      "outV": "STAR_TIANKU",
+      "inV": "PALACE_CAIBO"
+    }
+  ]
+}

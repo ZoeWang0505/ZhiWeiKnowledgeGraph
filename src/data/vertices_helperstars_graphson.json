@@ -1,0 +1,384 @@
+{
+  "vertices": [
+    {
+      "id": "STAR_ZUOFU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "左辅",
+        "category": "辅星",
+        "element": "木",
+        "yinyang": "阳",
+        "virtue": "仁",
+        "symbolism": ["辅助", "支持", "贵人"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_YOUBI",
+      "label": "AstroStar",
+      "properties": {
+        "name": "右弼",
+        "category": "辅星",
+        "element": "木",
+        "yinyang": "阴",
+        "virtue": "仁",
+        "symbolism": ["协助", "柔和", "贵人"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_WENCHANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": "文昌",
+        "category": "辅星",
+        "element": "木",
+        "yinyang": "阳",
+        "virtue": "智",
+        "symbolism": ["学识", "文才", "思考"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_WENQU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "文曲",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阴",
+        "virtue": "智",
+        "symbolism": ["艺术", "灵感", "感性"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_TIANRUI",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天魁",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阳",
+        "virtue": "礼",
+        "symbolism": ["贵气", "提携", "荣耀"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_TIANYUE",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天钺",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阴",
+        "virtue": "礼",
+        "symbolism": ["贵气", "助力", "权柄"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_LUCUN",
+      "label": "AstroStar",
+      "properties": {
+        "name": "禄存",
+        "category": "辅星",
+        "element": "土",
+        "yinyang": "阳",
+        "virtue": "信",
+        "symbolism": ["财富", "积累", "稳定"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_QINGYANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": "擎羊",
+        "category": "辅星",
+        "element": "金",
+        "yinyang": "阳",
+        "virtue": "勇",
+        "symbolism": ["冲动", "破坏", "强势"],
+        "sign": "煞"
+      }
+    },
+    {
+      "id": "STAR_TUOLUO",
+      "label": "AstroStar",
+      "properties": {
+        "name": "陀罗",
+        "category": "辅星",
+        "element": "金",
+        "yinyang": "阴",
+        "virtue": "勇",
+        "symbolism": ["阻碍", "拖延", "反复"],
+        "sign": "煞"
+      }
+    },
+    {
+      "id": "STAR_HUOXING",
+      "label": "AstroStar",
+      "properties": {
+        "name": "火星",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阳",
+        "virtue": "礼",
+        "symbolism": ["爆发", "急躁", "冲击"],
+        "sign": "煞"
+      }
+    },
+    {
+      "id": "STAR_LINGXING",
+      "label": "AstroStar",
+      "properties": {
+        "name": "铃星",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阴",
+        "virtue": "礼",
+        "symbolism": ["波动", "不安", "敏感"],
+        "sign": "煞"
+      }
+    },
+    {
+      "id": "STAR_DIKONG",
+      "label": "AstroStar",
+      "properties": {
+        "name": "地空",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阳",
+        "virtue": "智",
+        "symbolism": ["虚无", "消散", "空洞"],
+        "sign": "煞"
+      }
+    },
+    {
+      "id": "STAR_DIJIE",
+      "label": "AstroStar",
+      "properties": {
+        "name": "地劫",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阴",
+        "virtue": "智",
+        "symbolism": ["破损", "损耗", "失落"],
+        "sign": "煞"
+      }
+    },
+    {
+      "id": "STAR_TIANXING",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天刑",
+        "category": "辅星",
+        "element": "金",
+        "yinyang": "阳",
+        "virtue": "义",
+        "symbolism": ["制约", "规则", "惩戒"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANYAO",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天姚",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阴",
+        "virtue": "礼",
+        "symbolism": ["魅力", "桃花", "吸引力"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANSHOU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天寿",
+        "category": "辅星",
+        "element": "土",
+        "yinyang": "阳",
+        "virtue": "信",
+        "symbolism": ["长寿", "稳固", "延续"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANCAI",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天才",
+        "category": "辅星",
+        "element": "木",
+        "yinyang": "阳",
+        "virtue": "智",
+        "symbolism": ["天赋", "灵巧", "悟性"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANGUI",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天贵",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阴",
+        "virtue": "礼",
+        "symbolism": ["贵气", "机缘", "恩赐"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANGUAN",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天官",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阳",
+        "virtue": "礼",
+        "symbolism": ["权柄", "管理", "秩序"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANFU2",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天福",
+        "category": "辅星",
+        "element": "土",
+        "yinyang": "阴",
+        "virtue": "信",
+        "symbolism": ["福气", "庇护", "安稳"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANCHU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天厨",
+        "category": "辅星",
+        "element": "土",
+        "yinyang": "阳",
+        "virtue": "信",
+        "symbolism": ["饮食", "享受", "滋养"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANWU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天巫",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阴",
+        "virtue": "智",
+        "symbolism": ["神秘", "直觉", "灵性"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANXU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天虚",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阳",
+        "virtue": "智",
+        "symbolism": ["空缺", "不满足", "幻象"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANSHANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天伤",
+        "category": "辅星",
+        "element": "金",
+        "yinyang": "阴",
+        "virtue": "义",
+        "symbolism": ["创伤", "敏感", "破裂"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANSI",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天使",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阳",
+        "virtue": "礼",
+        "symbolism": ["善意", "帮助", "慈悲"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANYUE2",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天月",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阴",
+        "virtue": "智",
+        "symbolism": ["情绪", "敏感", "阴柔"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANMA",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天马",
+        "category": "辅星",
+        "element": "木",
+        "yinyang": "阳",
+        "virtue": "仁",
+        "symbolism": ["行动", "奔走", "变化"],
+        "sign": "吉"
+      }
+    },
+    {
+      "id": "STAR_TIANXI",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天喜",
+        "category": "辅星",
+        "element": "火",
+        "yinyang": "阳",
+        "virtue": "礼",
+        "symbolism": ["喜庆", "缘分", "好运"],
+        "sign": "杂"
+      }
+    },
+    {
+      "id": "STAR_TIANKU",
+      "label": "AstroStar",
+      "properties": {
+        "name": "天哭",
+        "category": "辅星",
+        "element": "水",
+        "yinyang": "阴",
+        "virtue": "智",
+        "symbolism": ["悲情", "情绪", "敏感"],
+        "sign": "杂"
+      }
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,230 @@
+{
+  "vertices": [
+    {
+      "id": "STAR_ZIWEI",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_ZIWEI_name", "value": "紫微" }],
+        "category": [{ "id": "STAR_ZIWEI_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_ZIWEI_ele", "value": "土" }],
+        "yinyang": [{ "id": "STAR_ZIWEI_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_ZIWEI_vir", "value": "仁" }],
+        "symbolism": [
+          { "id": "STAR_ZIWEI_sym_1", "value": "统御" },
+          { "id": "STAR_ZIWEI_sym_2", "value": "中心" },
+          { "id": "STAR_ZIWEI_sym_3", "value": "权威" },
+          { "id": "STAR_ZIWEI_sym_4", "value": "管理" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TIANJI",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TIANJI_name", "value": "天机" }],
+        "category": [{ "id": "STAR_TIANJI_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TIANJI_ele", "value": "木" }],
+        "yinyang": [{ "id": "STAR_TIANJI_yy", "value": "阴" }],
+        "virtue": [{ "id": "STAR_TIANJI_vir", "value": "智" }],
+        "symbolism": [
+          { "id": "STAR_TIANJI_sym_1", "value": "智慧" },
+          { "id": "STAR_TIANJI_sym_2", "value": "变化" },
+          { "id": "STAR_TIANJI_sym_3", "value": "策略" },
+          { "id": "STAR_TIANJI_sym_4", "value": "思考" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TAIYANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TAIYANG_name", "value": "太阳" }],
+        "category": [{ "id": "STAR_TAIYANG_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TAIYANG_ele", "value": "火" }],
+        "yinyang": [{ "id": "STAR_TAIYANG_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_TAIYANG_vir", "value": "礼" }],
+        "symbolism": [
+          { "id": "STAR_TAIYANG_sym_1", "value": "光明" },
+          { "id": "STAR_TAIYANG_sym_2", "value": "外放" },
+          { "id": "STAR_TAIYANG_sym_3", "value": "热情" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_WUQU",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_WUQU_name", "value": "武曲" }],
+        "category": [{ "id": "STAR_WUQU_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_WUQU_ele", "value": "金" }],
+        "yinyang": [{ "id": "STAR_WUQU_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_WUQU_vir", "value": "义" }],
+        "symbolism": [
+          { "id": "STAR_WUQU_sym_1", "value": "执行" },
+          { "id": "STAR_WUQU_sym_2", "value": "果断" },
+          { "id": "STAR_WUQU_sym_3", "value": "务实" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TIANTONG",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TIANTONG_name", "value": "天同" }],
+        "category": [{ "id": "STAR_TIANTONG_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TIANTONG_ele", "value": "水" }],
+        "yinyang": [{ "id": "STAR_TIANTONG_yy", "value": "阴" }],
+        "virtue": [{ "id": "STAR_TIANTONG_vir", "value": "信" }],
+        "symbolism": [
+          { "id": "STAR_TIANTONG_sym_1", "value": "温和" },
+          { "id": "STAR_TIANTONG_sym_2", "value": "包容" },
+          { "id": "STAR_TIANTONG_sym_3", "value": "享乐" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_LIANZHEN",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_LIANZHEN_name", "value": "廉贞" }],
+        "category": [{ "id": "STAR_LIANZHEN_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_LIANZHEN_ele", "value": "火" }],
+        "yinyang": [{ "id": "STAR_LIANZHEN_yy", "value": "阴" }],
+        "virtue": [{ "id": "STAR_LIANZHEN_vir", "value": "礼" }],
+        "symbolism": [
+          { "id": "STAR_LIANZHEN_sym_1", "value": "欲望" },
+          { "id": "STAR_LIANZHEN_sym_2", "value": "魅力" },
+          { "id": "STAR_LIANZHEN_sym_3", "value": "变化" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TIANFU",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TIANFU_name", "value": "天府" }],
+        "category": [{ "id": "STAR_TIANFU_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TIANFU_ele", "value": "土" }],
+        "yinyang": [{ "id": "STAR_TIANFU_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_TIANFU_vir", "value": "信" }],
+        "symbolism": [
+          { "id": "STAR_TIANFU_sym_1", "value": "稳重" },
+          { "id": "STAR_TIANFU_sym_2", "value": "积累" },
+          { "id": "STAR_TIANFU_sym_3", "value": "守成" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TAIYIN",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TAIYIN_name", "value": "太阴" }],
+        "category": [{ "id": "STAR_TAIYIN_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TAIYIN_ele", "value": "水" }],
+        "yinyang": [{ "id": "STAR_TAIYIN_yy", "value": "阴" }],
+        "virtue": [{ "id": "STAR_TAIYIN_vir", "value": "智" }],
+        "symbolism": [
+          { "id": "STAR_TAIYIN_sym_1", "value": "内敛" },
+          { "id": "STAR_TAIYIN_sym_2", "value": "细腻" },
+          { "id": "STAR_TAIYIN_sym_3", "value": "情绪" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TANLANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TANLANG_name", "value": "贪狼" }],
+        "category": [{ "id": "STAR_TANLANG_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TANLANG_ele", "value": "木" }],
+        "yinyang": [{ "id": "STAR_TANLANG_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_TANLANG_vir", "value": "仁" }],
+        "symbolism": [
+          { "id": "STAR_TANLANG_sym_1", "value": "欲望" },
+          { "id": "STAR_TANLANG_sym_2", "value": "享乐" },
+          { "id": "STAR_TANLANG_sym_3", "value": "变化" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_JUMEN",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_JUMEN_name", "value": "巨门" }],
+        "category": [{ "id": "STAR_JUMEN_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_JUMEN_ele", "value": "水" }],
+        "yinyang": [{ "id": "STAR_JUMEN_yy", "value": "阴" }],
+        "virtue": [{ "id": "STAR_JUMEN_vir", "value": "智" }],
+        "symbolism": [
+          { "id": "STAR_JUMEN_sym_1", "value": "口才" },
+          { "id": "STAR_JUMEN_sym_2", "value": "争议" },
+          { "id": "STAR_JUMEN_sym_3", "value": "表达" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TIANXIANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TIANXIANG_name", "value": "天相" }],
+        "category": [{ "id": "STAR_TIANXIANG_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TIANXIANG_ele", "value": "水" }],
+        "yinyang": [{ "id": "STAR_TIANXIANG_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_TIANXIANG_vir", "value": "义" }],
+        "symbolism": [
+          { "id": "STAR_TIANXIANG_sym_1", "value": "辅助" },
+          { "id": "STAR_TIANXIANG_sym_2", "value": "平衡" },
+          { "id": "STAR_TIANXIANG_sym_3", "value": "协调" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_TIANLIANG",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_TIANLIANG_name", "value": "天梁" }],
+        "category": [{ "id": "STAR_TIANLIANG_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_TIANLIANG_ele", "value": "木" }],
+        "yinyang": [{ "id": "STAR_TIANLIANG_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_TIANLIANG_vir", "value": "仁" }],
+        "symbolism": [
+          { "id": "STAR_TIANLIANG_sym_1", "value": "庇护" },
+          { "id": "STAR_TIANLIANG_sym_2", "value": "慈悲" },
+          { "id": "STAR_TIANLIANG_sym_3", "value": "守护" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_QISHA",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_QISHA_name", "value": "七杀" }],
+        "category": [{ "id": "STAR_QISHA_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_QISHA_ele", "value": "金" }],
+        "yinyang": [{ "id": "STAR_QISHA_yy", "value": "阳" }],
+        "virtue": [{ "id": "STAR_QISHA_vir", "value": "勇" }],
+        "symbolism": [
+          { "id": "STAR_QISHA_sym_1", "value": "破除" },
+          { "id": "STAR_QISHA_sym_2", "value": "果断" },
+          { "id": "STAR_QISHA_sym_3", "value": "行动" }
+        ]
+      }
+    },
+    {
+      "id": "STAR_POJUN",
+      "label": "AstroStar",
+      "properties": {
+        "name": [{ "id": "STAR_POJUN_name", "value": "破军" }],
+        "category": [{ "id": "STAR_POJUN_cat", "value": "主星" }],
+        "element": [{ "id": "STAR_POJUN_ele", "value": "水" }],
+        "yinyang": [{ "id": "STAR_POJUN_yy", "value": "阴" }],
+        "virtue": [{ "id": "STAR_POJUN_vir", "value": "勇" }],
+        "symbolism": [
+          { "id": "STAR_POJUN_sym_1", "value": "破坏" },
+          { "id": "STAR_POJUN_sym_2", "value": "重生" },
+          { "id": "STAR_POJUN_sym_3", "value": "变革" }
+        ]
+      }
+    }
+  ]
+}
